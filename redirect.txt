@@ -1,0 +1,26 @@
+/home/hemant17/DEMO/myscripts
+/home/hemant17/DEMO/myscripts
+Sat Oct  4 05:01:53 UTC 2025
+arguments.sh
+arith.sh
+arrays.sh
+basic_script.sh
+breakloop.sh
+case.sh
+comments.sh
+file.sh
+function.sh
+ifelse.sh
+infinite.sh
+keyvaluearray.sh
+logicalop.sh
+loop.sh
+names.csv
+redirect.txt
+sample.txt
+string.sh
+until.sh
+userinter.sh
+variable.sh
+whilecsv.sh
+whileloop.sh
